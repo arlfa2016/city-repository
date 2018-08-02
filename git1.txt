@@ -6,3 +6,5 @@
 132
 abc
 acb
+bca
+bac
